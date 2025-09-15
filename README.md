@@ -1,7 +1,7 @@
-# TP 1 - Backend con Node.js y Express
+TP 2 - Backend con Node.js y Express
 
-## Descripción
-API REST para gestión de productos y carritos de compra desarrollada con Node.js y Express.
+API REST para gestión de productos y carritos de compra desarrollada con Node.js y Express.  
+Incluye funcionalidades en **tiempo real** usando WebSockets y vistas dinámicas con Handlebars.
 
 ## Características
 - Gestión completa de productos (CRUD)
@@ -116,3 +116,6 @@ Agrega un producto al carrito
 
 ## Autor
 Desarrollado para el curso de Backend 
+
+
+

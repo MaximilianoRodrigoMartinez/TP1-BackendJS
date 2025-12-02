@@ -39,7 +39,7 @@ jspm_packages/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env (comentado porque el profesor lo requiere en el repositorio)
 
 # IDE files
 .vscode/
